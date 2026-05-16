@@ -1,0 +1,15 @@
+namespace: pschmitt
+name: fritzbox
+version: 0.1.0
+description: Ansible modules for managing AVM Fritz!Box routers
+license:
+  - GPL-3.0-or-later
+authors:
+  - Philipp Schmitt <philipp@schmitt.co>
+repository: https://github.com/pschmitt/ansible-collection-fritzbox
+tags:
+  - fritzbox
+  - avm
+  - networking
+  - router
+dependencies: {}
