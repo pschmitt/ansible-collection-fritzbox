@@ -1,1 +1,12 @@
 requires_ansible: ">=2.14.0"
+
+action_groups:
+  all:
+    - dns
+    - dns_rebind
+    - facts
+    - lan
+    - led
+    - name
+    - route
+    - wlan
