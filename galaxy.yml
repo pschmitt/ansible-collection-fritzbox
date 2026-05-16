@@ -1,6 +1,7 @@
 namespace: pschmitt
 name: fritzbox
 version: 0.1.0
+readme: README.md
 description: Ansible modules for managing AVM Fritz!Box routers
 license:
   - GPL-3.0-or-later
