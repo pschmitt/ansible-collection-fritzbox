@@ -8,5 +8,6 @@ action_groups:
     - lan
     - led
     - name
+    - hosts
     - route
     - wlan
